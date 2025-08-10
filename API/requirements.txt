@@ -1,0 +1,14 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-dotenv
+google-generativeai
+pandas
+sentence-transformers
+scikit-learn
+torch
+google-cloud-speech
+redis
+slowapi
+prometheus-client
+sentry-sdk[fastapi]
